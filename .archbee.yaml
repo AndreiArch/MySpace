@@ -1,0 +1,4 @@
+docsPath: myspace
+structure:
+  summary: toc.md
+  assets: assets
